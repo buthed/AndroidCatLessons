@@ -1,0 +1,4 @@
+include ':day2_hellokitty_java'
+include ':day2_hellokitty2_kt'
+include ':app'
+rootProject.name = "My Application"
