@@ -1,4 +1,6 @@
-include ':day2_hellokitty_java'
+include ':day5_natasha_get_up'
+include ':day4_traffic_light'
+include ':day3_count_of_birds'
 include ':day2_hellokitty2_kt'
 include ':app'
 rootProject.name = "My Application"

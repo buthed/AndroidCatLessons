@@ -12,7 +12,9 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/day2_hellokitty2_kt" />
-            <option value="$PROJECT_DIR$/day2_hellokitty_java" />
+            <option value="$PROJECT_DIR$/day3_count_of_birds" />
+            <option value="$PROJECT_DIR$/day4_traffic_light" />
+            <option value="$PROJECT_DIR$/day5_natasha_get_up" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
